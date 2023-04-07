@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Symptoms">PeriodTracker2
+        <item>Cramps</item>
+        <item>Joint Pain</item>
+        <item>Diarrhoea</item>
+        <item>Constipation</item>
+        <item>Fatigue</item>
+    </string-array>
+</resources>
